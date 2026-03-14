@@ -1,0 +1,5 @@
+export declare const getAllAlbum: (req: import("express-serve-static-core").Request, res: import("express-serve-static-core").Response, next: import("express-serve-static-core").NextFunction) => Promise<void>;
+export declare const getAllSongs: (req: import("express-serve-static-core").Request, res: import("express-serve-static-core").Response, next: import("express-serve-static-core").NextFunction) => Promise<void>;
+export declare const getAllSongsOfAlbum: (req: import("express-serve-static-core").Request, res: import("express-serve-static-core").Response, next: import("express-serve-static-core").NextFunction) => Promise<void>;
+export declare const getSingleSong: (req: import("express-serve-static-core").Request, res: import("express-serve-static-core").Response, next: import("express-serve-static-core").NextFunction) => Promise<void>;
+//# sourceMappingURL=controller.d.ts.map
